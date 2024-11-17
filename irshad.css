@@ -1,0 +1,23 @@
+.flex-container {
+    display: flex;
+    flex-wrap: row wrap;
+    background-color: DodgerBlue;
+    justify-content:center
+    border: 2px solid red;
+    flex-direction: colom;
+    height: px;
+    align-items:center;
+}
+  box1{
+    border: color('\f6af' red green blue);
+  }
+  .flex-container > div {
+    background-color: #f1f1f1;
+    width: 100px;
+    margin: 10px;
+    font-size: 30px;
+    text-align: center;
+    line-height: 100px;
+    font-size: 20px;
+  }
+  
